@@ -1,0 +1,32 @@
+EJERCICIO 1
+
+Pregunta 1: Que come el leon
+2 ?- come(leon,Que).
+Que = carne.
+
+Pregunta 2: Que animales son comida del leon
+1 ?- comida(X).
+X = vaca ;
+X = cabra.
+
+Pregunta 3: Es la vaca un mamifero
+3 ?- mamifero(vaca).
+true.
+
+
+EJERCICIO 2
+Pregunta 1: Que come pinguino
+1 ?- come(pinguino, Que).
+Que = pescado. 
+
+Pregunta 2: Que animales son comida del Aguila
+2 ?- comida(X).
+X = loro ;
+X = pinguino.
+
+Pregunta 3: Es el loro un ave
+2 ?- ave(loro).
+true.
+
+EJERCICIO 3
+Pregunta 1: 
